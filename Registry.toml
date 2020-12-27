@@ -1,0 +1,5 @@
+name = "CSC_Registry"
+uuid = "4ce79c9b-a6c3-4293-a589-1456a01f7d8e"
+repo = "https://github.com/josePereiro/CSC_Registry.jl"
+
+[packages]
