@@ -4,3 +4,4 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 
 [packages]
 1d417f3e-fd42-11ea-18da-dda57c9b97b2 = { name = "UtilsJL", path = "U/UtilsJL" }
+c5987326-81b3-11ea-28dd-b531745de20f = { name = "Chemostat", path = "C/Chemostat" }
