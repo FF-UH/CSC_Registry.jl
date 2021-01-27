@@ -1,0 +1,3 @@
+name = "ChemostatPlots"
+uuid = "a87e7f4e-3b34-4b5e-ad6b-f0ab85127471"
+repo = "https://github.com/josePereiro/ChemostatPlots.jl"
