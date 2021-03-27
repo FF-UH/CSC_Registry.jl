@@ -1,0 +1,3 @@
+name = "MyPkgTemplate"
+uuid = "c1c1e88c-cb6c-463d-9723-3dce2b3356d0"
+repo = "https://github.com/josePereiro/MyPkgTemplate.jl"
