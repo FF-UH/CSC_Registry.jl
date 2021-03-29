@@ -1,0 +1,3 @@
+name = "PkgMassInstaller"
+uuid = "25937451-55af-4cf1-a681-2354f35bf0f3"
+repo = "https://github.com/josePereiro/PkgMassInstaller.jl"
