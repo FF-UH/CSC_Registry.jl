@@ -5,6 +5,7 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 [packages]
 1d417f3e-fd42-11ea-18da-dda57c9b97b2 = { name = "UtilsJL", path = "U/UtilsJL" }
 25937451-55af-4cf1-a681-2354f35bf0f3 = { name = "PkgMassInstaller", path = "P/PkgMassInstaller" }
+82dba31a-8ab6-430f-a22d-9cbb81344561 = { name = "DataFileNames", path = "D/DataFileNames" }
 a87e7f4e-3b34-4b5e-ad6b-f0ab85127471 = { name = "ChemostatPlots", path = "C/ChemostatPlots" }
 c1c1e88c-cb6c-463d-9723-3dce2b3356d0 = { name = "MyPkgTemplate", path = "M/MyPkgTemplate" }
 c5987326-81b3-11ea-28dd-b531745de20f = { name = "Chemostat", path = "C/Chemostat" }
