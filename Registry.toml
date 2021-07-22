@@ -10,4 +10,5 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 a87e7f4e-3b34-4b5e-ad6b-f0ab85127471 = { name = "ChemostatPlots", path = "C/ChemostatPlots" }
 c1c1e88c-cb6c-463d-9723-3dce2b3356d0 = { name = "MyPkgTemplate", path = "M/MyPkgTemplate" }
 c5987326-81b3-11ea-28dd-b531745de20f = { name = "Chemostat", path = "C/Chemostat" }
+d690c95a-5dbf-4f48-8541-cd6f672b0d00 = { name = "SimTools", path = "S/SimTools" }
 df388e3e-013c-4f8d-ba67-f4afa1ff006b = { name = "ProjAssistant", path = "P/ProjAssistant" }
