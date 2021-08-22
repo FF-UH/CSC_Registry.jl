@@ -6,3 +6,6 @@ ImgTools = "60a16571-0043-4368-b1b0-a5366d36b020"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.2-0"]
+ExtractMacro = "f86d3d12-fd5b-522c-99e9-61577282a1e9"
