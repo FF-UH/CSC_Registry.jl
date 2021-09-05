@@ -8,6 +8,7 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 3cb95532-3c78-4535-bbc5-067405b402f6 = { name = "RegexTools", path = "R/RegexTools" }
 600230a9-b20f-4ec3-b56e-c0a439718caf = { name = "TexAssistant", path = "T/TexAssistant" }
 60a16571-0043-4368-b1b0-a5366d36b020 = { name = "ImgTools", path = "I/ImgTools" }
+638332cd-b357-4bf5-bfa2-3531168477f5 = { name = "FilesTreeTools", path = "F/FilesTreeTools" }
 82dba31a-8ab6-430f-a22d-9cbb81344561 = { name = "DataFileNames", path = "D/DataFileNames" }
 948146ab-812c-48a7-a07f-51ea6ea1546c = { name = "MagicDicts", path = "M/MagicDicts" }
 a87e7f4e-3b34-4b5e-ad6b-f0ab85127471 = { name = "ChemostatPlots", path = "C/ChemostatPlots" }
