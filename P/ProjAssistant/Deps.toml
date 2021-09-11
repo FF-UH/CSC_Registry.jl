@@ -9,3 +9,6 @@ Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
 ["0.2-0"]
 ExtractMacro = "f86d3d12-fd5b-522c-99e9-61577282a1e9"
+
+["0.3.1-0"]
+FilesTreeTools = "638332cd-b357-4bf5-bfa2-3531168477f5"
