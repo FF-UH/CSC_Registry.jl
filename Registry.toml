@@ -12,6 +12,7 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 6bfc0cc1-c423-4851-8624-db00c2e00b7b = { name = "ExternalCmds", path = "E/ExternalCmds" }
 82dba31a-8ab6-430f-a22d-9cbb81344561 = { name = "DataFileNames", path = "D/DataFileNames" }
 948146ab-812c-48a7-a07f-51ea6ea1546c = { name = "MagicDicts", path = "M/MagicDicts" }
+9e5d5e8c-ba81-11ea-39e8-15323c797f61 = { name = "GitWorkers", path = "G/GitWorkers" }
 a87e7f4e-3b34-4b5e-ad6b-f0ab85127471 = { name = "ChemostatPlots", path = "C/ChemostatPlots" }
 b110ed5b-1827-4ea4-a31c-50efd441af06 = { name = "JLAssistant", path = "J/JLAssistant" }
 c1c1e88c-cb6c-463d-9723-3dce2b3356d0 = { name = "MyPkgTemplate", path = "M/MyPkgTemplate" }
