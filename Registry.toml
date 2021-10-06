@@ -6,6 +6,7 @@ repo = "https://github.com/josePereiro/CSC_Registry.jl"
 1d417f3e-fd42-11ea-18da-dda57c9b97b2 = { name = "UtilsJL", path = "U/UtilsJL" }
 25937451-55af-4cf1-a681-2354f35bf0f3 = { name = "PkgMassInstaller", path = "P/PkgMassInstaller" }
 3cb95532-3c78-4535-bbc5-067405b402f6 = { name = "RegexTools", path = "R/RegexTools" }
+466ec94f-58aa-4bf1-ae55-0fdfea5849a7 = { name = "PrintTools", path = "P/PrintTools" }
 600230a9-b20f-4ec3-b56e-c0a439718caf = { name = "TexAssistant", path = "T/TexAssistant" }
 60a16571-0043-4368-b1b0-a5366d36b020 = { name = "ImgTools", path = "I/ImgTools" }
 638332cd-b357-4bf5-bfa2-3531168477f5 = { name = "FilesTreeTools", path = "F/FilesTreeTools" }
