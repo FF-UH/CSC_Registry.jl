@@ -3,6 +3,7 @@ uuid = "4ce79c9b-a6c3-4293-a589-1456a01f7d8e"
 repo = "https://github.com/FF-UH/CSC_Registry.jl"
 
 [packages]
+0c975e61-21d9-4454-8de5-ff08fd2c478f = { name = "SimpleLockFiles", path = "S/SimpleLockFiles" }
 1d417f3e-fd42-11ea-18da-dda57c9b97b2 = { name = "UtilsJL", path = "U/UtilsJL" }
 25937451-55af-4cf1-a681-2354f35bf0f3 = { name = "PkgMassInstaller", path = "P/PkgMassInstaller" }
 3cb95532-3c78-4535-bbc5-067405b402f6 = { name = "RegexTools", path = "R/RegexTools" }
