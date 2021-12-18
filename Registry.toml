@@ -26,3 +26,4 @@ df388e3e-013c-4f8d-ba67-f4afa1ff006b = { name = "ProjAssistant", path = "P/ProjA
 e5655290-0136-40fd-b997-9e22755203bc = { name = "GitLinks", path = "G/GitLinks" }
 e57bcde5-101c-47b4-bac9-e79e238e37d4 = { name = "MetNets", path = "M/MetNets" }
 e83e49e0-9c73-11ea-0f72-7b2612c12766 = { name = "Example", path = "E/Example" }
+fbbb76bd-cc92-4b2f-9b7e-8d53a46f5940 = { name = "INOAssistant", path = "I/INOAssistant" }
