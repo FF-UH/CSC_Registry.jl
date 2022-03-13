@@ -14,6 +14,7 @@ repo = "https://github.com/FF-UH/CSC_Registry.jl"
 60a16571-0043-4368-b1b0-a5366d36b020 = { name = "ImgTools", path = "I/ImgTools" }
 638332cd-b357-4bf5-bfa2-3531168477f5 = { name = "FilesTreeTools", path = "F/FilesTreeTools" }
 6bfc0cc1-c423-4851-8624-db00c2e00b7b = { name = "ExternalCmds", path = "E/ExternalCmds" }
+769de9c1-ca9f-41ae-9e69-f7e27706da2c = { name = "BibUtils", path = "B/BibUtils" }
 82dba31a-8ab6-430f-a22d-9cbb81344561 = { name = "DataFileNames", path = "D/DataFileNames" }
 94559648-8665-43eb-95be-b874d653e167 = { name = "MetEP", path = "M/MetEP" }
 948146ab-812c-48a7-a07f-51ea6ea1546c = { name = "MagicDicts", path = "M/MagicDicts" }
