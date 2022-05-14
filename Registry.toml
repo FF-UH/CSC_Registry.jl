@@ -4,6 +4,7 @@ repo = "https://github.com/FF-UH/CSC_Registry.jl"
 
 [packages]
 0c975e61-21d9-4454-8de5-ff08fd2c478f = { name = "SimpleLockFiles", path = "S/SimpleLockFiles" }
+1070a898-5650-4dbc-bdc4-2f105286d314 = { name = "ObaASTs", path = "O/ObaASTs" }
 1c3e8eab-fb9d-4faa-86a4-2d4d6165c1a6 = { name = "EasyEvents", path = "E/EasyEvents" }
 1d417f3e-fd42-11ea-18da-dda57c9b97b2 = { name = "UtilsJL", path = "U/UtilsJL" }
 25937451-55af-4cf1-a681-2354f35bf0f3 = { name = "PkgMassInstaller", path = "P/PkgMassInstaller" }
