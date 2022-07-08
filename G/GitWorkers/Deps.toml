@@ -12,3 +12,9 @@ FilesTreeTools = "638332cd-b357-4bf5-bfa2-3531168477f5"
 
 ["0.6-0"]
 LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+
+["0.8-0"]
+FilesTreeTools = "638332cd-b357-4bf5-bfa2-3531168477f5"
+GWUtils = "772e7830-88e0-466f-82c6-af9b8962b67b"
+GitLinks = "e5655290-0136-40fd-b997-9e22755203bc"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
